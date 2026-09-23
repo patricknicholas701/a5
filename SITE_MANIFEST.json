@@ -1,0 +1,207 @@
+{
+  "domain": "voileprestige",
+  "niche": "Haute Voile Prestige & Bespoke Cotton Couture",
+  "design_concept": "Architectural Swiss Grid & Full-Width Panorama",
+  "archetype_id": "swiss_panorama",
+  "pages": [
+    "index.html",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "voileprestige_asset_11.jpg",
+      "size_kb": 47.88,
+      "md5": "9b701c50ecc674b48caae15c0d42cc41",
+      "description": "Artisanal Haute Voile Prestige & Bespoke Cotton Couture: voileprestige asset 11",
+      "page": "index.html",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "voileprestige_asset_12.jpg",
+      "size_kb": 83.12,
+      "md5": "0ebe43a8635ccf00c207601f2df48bcb",
+      "description": "Artisanal Haute Voile Prestige & Bespoke Cotton Couture: voileprestige asset 12",
+      "page": "index.html",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "voileprestige_asset_17.jpg",
+      "size_kb": 180.51,
+      "md5": "adbcf13d12dbac83aa05f111453f9d4a",
+      "description": "Artisanal Haute Voile Prestige & Bespoke Cotton Couture: voileprestige asset 17",
+      "page": "index.html",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "voileprestige_asset_18.jpg",
+      "size_kb": 175.86,
+      "md5": "536ad622b76e6915f0e65c0ce3162bfc",
+      "description": "Artisanal Haute Voile Prestige & Bespoke Cotton Couture: voileprestige asset 18",
+      "page": "index.html",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "voileprestige_asset_19.jpg",
+      "size_kb": 94.59,
+      "md5": "1adeab98c20e3e039dc430f78ca1c99d",
+      "description": "Artisanal Haute Voile Prestige & Bespoke Cotton Couture: voileprestige asset 19",
+      "page": "index.html",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "voileprestige_asset_20.jpg",
+      "size_kb": 114.66,
+      "md5": "c84034f47f6441836b664f265fba1884",
+      "description": "Artisanal Haute Voile Prestige & Bespoke Cotton Couture: voileprestige asset 20",
+      "page": "index.html",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "voileprestige_asset_344.jpg",
+      "size_kb": 76.64,
+      "md5": "fc2cd0d509cb6bd9f51f5759eb21debc",
+      "description": "Artisanal Haute Voile Prestige & Bespoke Cotton Couture: voileprestige asset 344",
+      "page": "index.html",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "voileprestige_asset_421.jpg",
+      "size_kb": 168.17,
+      "md5": "e22f25db11f11ba387aa31576239a8d0",
+      "description": "Artisanal Haute Voile Prestige & Bespoke Cotton Couture: voileprestige asset 421",
+      "page": "index.html",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "voileprestige_asset_478.jpg",
+      "size_kb": 67.51,
+      "md5": "2bb16ccc34988c8fd473754b8734e196",
+      "description": "Artisanal Haute Voile Prestige & Bespoke Cotton Couture: voileprestige asset 478",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "voileprestige_asset_484.jpg",
+      "size_kb": 115.89,
+      "md5": "0d36d4446db95d7807bb74160391948e",
+      "description": "Artisanal Haute Voile Prestige & Bespoke Cotton Couture: voileprestige asset 484",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "voileprestige_asset_56.jpg",
+      "size_kb": 110.16,
+      "md5": "09d60853bc594d9a57d1d0a462dcae27",
+      "description": "Artisanal Haute Voile Prestige & Bespoke Cotton Couture: voileprestige asset 56",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "voileprestige_asset_595.jpg",
+      "size_kb": 82.06,
+      "md5": "6511bd48eb9c4cbf8c6ad903a84e114e",
+      "description": "Artisanal Haute Voile Prestige & Bespoke Cotton Couture: voileprestige asset 595",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "voileprestige_asset_613.jpg",
+      "size_kb": 199.09,
+      "md5": "a0f1939656bbf6da75d26fe0c6a704d1",
+      "description": "Artisanal Haute Voile Prestige & Bespoke Cotton Couture: voileprestige asset 613",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "voileprestige_asset_650.jpg",
+      "size_kb": 484.83,
+      "md5": "3f496cd709d533f350be444b7f92eac6",
+      "description": "Artisanal Haute Voile Prestige & Bespoke Cotton Couture: voileprestige asset 650",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "voileprestige_asset_75.jpg",
+      "size_kb": 60.88,
+      "md5": "c3ce5744139a95eb9e88cc72f2ca405a",
+      "description": "Artisanal Haute Voile Prestige & Bespoke Cotton Couture: voileprestige asset 75",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "voileprestige_asset_76.jpg",
+      "size_kb": 51.53,
+      "md5": "e349e69587cbea2f5a4ad717f8fc1f84",
+      "description": "Artisanal Haute Voile Prestige & Bespoke Cotton Couture: voileprestige asset 76",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "voileprestige_asset_77.jpg",
+      "size_kb": 100.73,
+      "md5": "23c50f387624dbadf54dac1227a599fa",
+      "description": "Artisanal Haute Voile Prestige & Bespoke Cotton Couture: voileprestige asset 77",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "voileprestige_asset_79.jpg",
+      "size_kb": 69.85,
+      "md5": "60c2dd02a9001b8c394f6896777cc032",
+      "description": "Artisanal Haute Voile Prestige & Bespoke Cotton Couture: voileprestige asset 79",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "voileprestige_asset_90.jpg",
+      "size_kb": 46.81,
+      "md5": "93a4fe262193e158ab6bf2c1ddc12a0f",
+      "description": "Artisanal Haute Voile Prestige & Bespoke Cotton Couture: voileprestige asset 90",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "voileprestige_asset_94.jpg",
+      "size_kb": 39.15,
+      "md5": "c1af4441a50e76dcaf819a36b6abff36",
+      "description": "Artisanal Haute Voile Prestige & Bespoke Cotton Couture: voileprestige asset 94",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "181 Mercer Street, New York, NY 10012, United States",
+    "telephone": "+1-888-777-5845",
+    "sitemap": "https://voileprestige.com/sitemap.xml",
+    "robots": "https://voileprestige.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT"
+}
